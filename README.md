@@ -1,2 +1,3 @@
 # Final
  
+This project utlized the skills that have been learned over the semester to analyze behaviors and trends for streaming. Device types (Laptop, Desktop, Tablet, Phone, and SmartTV), playback quality (HD, SD, and 4K), genre (Documentary, Thriller, Sci-Fi, Comedy, Action), countries, and plyaback time were utilized to make insights. One of the goals was to calculate average time watched based on playback quality and device type. The other was to analyze top genres based on country. By examing the data, analyses can be made for streaming companies, marketing teams, creators/directors, and users.
